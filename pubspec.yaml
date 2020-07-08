@@ -4,36 +4,34 @@ version: 1.0.0
 homepage: https://github.com/Sub6Resources/flutter_html
 
 environment:
-  sdk: '>=2.2.2 <3.0.0'
-  flutter: '>=1.17.0'
+  sdk: any
+  flutter: any
 
 dependencies:
   # Plugin for parsing html
-  html: ^0.14.0+3
+  html: any
 
   # Plugins for parsing css
-  csslib: ^0.16.1
-  css_colors: ^1.0.2
+  csslib: any
+  css_colors: any
 
   # Plugins for rendering the <video> tag.
-  video_player: ^0.10.10
-  chewie: ^0.9.10
+  video_player: any
+  chewie: any
 
   # Plugin for rendering the <iframe> tag.
-  webview_flutter: ^0.3.21
+  webview_flutter: any
 
   # Plugins for rendering the <audio> tag.
-  chewie_audio: ^1.0.0+1
+  chewie_audio: any
 
   # Plugins for rendering the <svg> tag.
-  flutter_svg: ^0.17.4
+  flutter_svg: any
 
   flutter:
     sdk: flutter
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
+
 
 flutter:
 
