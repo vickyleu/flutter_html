@@ -4,8 +4,7 @@ version: 1.0.0
 homepage: https://github.com/Sub6Resources/flutter_html
 
 environment:
-  sdk: any
-  flutter: any
+  sdk: ">=2.8.0 <3.0.0"
 
 dependencies:
   # Plugin for parsing html
@@ -33,5 +32,4 @@ dependencies:
 
 
 
-flutter:
 
